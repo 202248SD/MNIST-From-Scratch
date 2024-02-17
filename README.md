@@ -1,5 +1,5 @@
 # MNIST-From-Scratch
-Created a neural network using numpy to detect numbers from the mnist database
+Created a neural network using numpy to detect numbers from the mnist database (no ML libraries, as I wanted to learn how neural networks work)
 
 ## Structure
 Consists of Input and Output Layer as well as 2 Hidden Layers  
@@ -21,6 +21,6 @@ For this project, I used some youtube videos as well as stackoverflow whenever I
 [But what is a neural network? | Chapter 1, Deep learning](https://youtu.be/aircAruvnKk?si=jXTfAIkC7rJNzprT)  
 [Gradient descent, how neural networks learn | Chapter 2, Deep learning](https://youtu.be/IHZwWFHWa-w?si=Hq_DYZU6GB1QBZi8)  
 [What is backpropagation really doing? | Chapter 3, Deep learning](https://youtu.be/Ilg3gGewQ5U?si=uQNzuVudPVPZfjSH)  
-[Backpropagation calculus | Chapter 4, Deep learning]  
+[Backpropagation calculus | Chapter 4, Deep learning](https://youtu.be/tIeHLnjs5U8?si=j_i3pSUsKNP0NQ1D)
 ### [Samson Zhang](https://www.youtube.com/@SamsonZhangTheSalmon)  
 [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU?si=tOt2nHiJfen5tr3z)  
