@@ -17,10 +17,10 @@ Test Accuracy 8% Lower than train accuracy, which might be due to overfitting
 
 ## Resources
 For this project, I used some youtube videos as well as stackoverflow whenever I was stuck with the maths  
-#### [3B1B](https://www.youtube.com/@3blue1brown)  
+### [3B1B](https://www.youtube.com/@3blue1brown)  
 [But what is a neural network? | Chapter 1, Deep learning](https://youtu.be/aircAruvnKk?si=jXTfAIkC7rJNzprT)  
 [Gradient descent, how neural networks learn | Chapter 2, Deep learning](https://youtu.be/IHZwWFHWa-w?si=Hq_DYZU6GB1QBZi8)  
 [What is backpropagation really doing? | Chapter 3, Deep learning](https://youtu.be/Ilg3gGewQ5U?si=uQNzuVudPVPZfjSH)  
 [Backpropagation calculus | Chapter 4, Deep learning]  
-#### [Samson Zhang](https://www.youtube.com/@SamsonZhangTheSalmon)  
+### [Samson Zhang](https://www.youtube.com/@SamsonZhangTheSalmon)  
 [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU?si=tOt2nHiJfen5tr3z)  
