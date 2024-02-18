@@ -5,16 +5,18 @@ Created a neural network using numpy to detect numbers from the mnist database (
 Consists of Input and Output Layer as well as 2 Hidden Layers  
 Tried implementing gradient descent with momentum  
    
-Input Layer : 784 neurons  
+Input Layer : 784 neurons  (28x28 MNIST Image flattened to a 784 neuron layer)
 Hidden Layer 1 : 16 neurons, Sigmoid activation function  
 Hidden Layer 2 : 16 neurons, ReLU activation function  
 Output Layer : 10 neurons, softmax activation function  
-
+Hyperparameters : lr (learning rate), rho (momentum coefficient), iterations (no. of epochs)
+  
 ## Results
 Saved the weights and biases of the trained model in [parameters.npz](https://github.com/202248SD/MNIST-From-Scratch/blob/c20a58fcecb93700bb3ac3cdaf326b8bfe80dace/parameters.npz)   
 Train Accuracy: ~87.2%, Cost: ~2.2  
 Test Accuracy: ~79.3%, Cost: ~3.5  
-Test Accuracy 8% Lower than train accuracy, which might be due to overfitting  
+Test Accuracy 8% Lower than train accuracy, which might be due to overfitting. Improvements: Tuning the hyperparameters/ adding batch processing
+
 
 ## Resources
 For this project, I used some youtube videos as well as stackoverflow whenever I was stuck with the maths  
