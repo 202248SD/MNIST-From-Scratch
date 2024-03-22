@@ -5,8 +5,8 @@ Created a neural network using numpy to detect numbers from the mnist database (
 Consists of Input and Output Layer as well as 2 Hidden Layers  
 Tried implementing gradient descent with momentum  
    
-Input Layer : 784 neurons  (28x28 MNIST Image flattened to a 784 neuron layer)
-Hidden Layer 1 : 16 neurons, Sigmoid activation function  
+Input Layer : 784 neurons  (28x28 MNIST Image flattened to a 784 neuron layer)\
+Hidden Layer 1 : 16 neurons, Sigmoid activation function  \
 Hidden Layer 2 : 16 neurons, ReLU activation function  
 Output Layer : 10 neurons, softmax activation function  
 Hyperparameters : lr (learning rate), rho (momentum coefficient), iterations (no. of epochs)
